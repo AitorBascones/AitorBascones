@@ -4,9 +4,7 @@
 Bienvenido a mi perfil de GitHub. Soy un matemático con un máster en ciencia de datos, apasionado por el análisis de datos, la resolución de problemas complejos, y la creación de modelos predictivos que generen valor a partir de la información. Mi enfoque principal está en la intersección entre **matemáticas**, **estadística**, y **ciencia de datos**, aplicando técnicas avanzadas para obtener insights de datos y resolver problemas reales.
 
 ## 🚀 Sobre mí
--🎓 **Formación**: 
- -**Grado en Matemáticas en la Universidad de Cádiz**  
- -**Máster en Ciencia de Datos e Ingeniería de Software en la Universidad de Granada**
+-🎓 **Formación**:Grado en Matemáticas y Máster en Ciencia de Datos e Ingeniería de Computadores
 
 - 💻 **Habilidades técnicas**:
   - **Lenguajes de programación**: Python, R, SQL.
