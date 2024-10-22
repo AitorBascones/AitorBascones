@@ -13,7 +13,7 @@ Máster en Ciencia de Datos e Ingeniería de Software en la Universidad de Grana
   - **Herramientas de análisis**: Excel, Power BI, Pandas, NumPy, scikit-learn, TensorFlow, Keras.
   - **Bases de datos**: MySQL, PostgreSQL, MongoDB.
   - **Machine Learning**: Modelos supervisados y no supervisados, redes neuronales.
-  - 
+   
 -📊 **Intereses**: Análisis de datos, visualización de datos, modelado de datos, estadística aplicada, machine learning y big data.
 
 ## 💬 ¿Cómo contactarme?
