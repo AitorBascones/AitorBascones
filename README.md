@@ -5,8 +5,8 @@ Bienvenido a mi perfil de GitHub. Soy un matemático con un máster en ciencia d
 
 ## 🚀 Sobre mí
 -🎓 **Formación**: 
-    -**Grado en Matemáticas en la Universidad de Cádiz**  
-    -**Máster en Ciencia de Datos e Ingeniería de Software en la Universidad de Granada**
+ -**Grado en Matemáticas en la Universidad de Cádiz**  
+ -**Máster en Ciencia de Datos e Ingeniería de Software en la Universidad de Granada**
 
 - 💻 **Habilidades técnicas**:
   - **Lenguajes de programación**: Python, R, SQL.
